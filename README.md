@@ -1,5 +1,6 @@
 # MoveSmartGame
 A game that is harder then you think
+The game can also be played on itch.io in .exe format
 
 # Object of the game
 The object of the game is to navigate a grid and reach a certain number of moves (100 moves in this case) and cover the entire grid with enemy squares that will appear in the squares that you have been in. If the player collides with an enemy they will lose.
